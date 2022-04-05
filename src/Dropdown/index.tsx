@@ -272,7 +272,6 @@ const DropdownComponent = React.forwardRef((props: DropdownProps, currentRef) =>
         ref={refList}
         onScrollToIndexFailed={scrollIndex}
         data={listData}
-        inverted
         renderItem={_renderItem}
         keyExtractor={(item, index) => index.toString()}
         showsVerticalScrollIndicator={showsVerticalScrollIndicator}
