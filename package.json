@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoaphantn7604/react-native-element-dropdown.git",
-    "baseUrl": "https://github.com/hoaphantn7604/react-native-element-dropdown"
+    "url": "git+https://github.com/waldenermonteiro/react-native-element-dropdown.git",
+    "baseUrl": "https://github.com/waldenermonteiro/react-native-element-dropdown"
   },
   "keywords": [
     "react-native",
@@ -25,8 +25,8 @@
     "select country"
   ],
   "author": {
-    "name": "Hoa Phan",
-    "email": "hoaphantn7604@email.com"
+    "name": "Waldener Monteiro",
+    "email": "jjrr019@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
