@@ -1,6 +1,6 @@
 {
-  "name": "react-native-element-dropdown",
-  "title": "React Native Element Dropdown",
+  "name": "react-native-element-dropdow-customized",
+  "title": "React Native Element Dropdown Customized",
   "version": "1.8.7",
   "description": "A react-native dropdown component easy to customize for both iOS and Android.",
   "main": "index.ts",
